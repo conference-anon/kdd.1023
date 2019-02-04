@@ -5,8 +5,9 @@
    CareLoss (this is the c3d.smartloss package). The rest of the folders under
    `c3d` are common infrastructure, and are probably not of much interest.
 
-2. The pointnet and PointCNN directories contains forks of the original sources
-   for each of these projects - https://github.com/charlesq34/pointnet and
+2. The pointnet and PointCNN directories, used for running the baseline
+   experiments, contain forks of the original sources for each of these
+   projects - https://github.com/charlesq34/pointnet and
    https://github.com/yangyanli/PointCNN.
 
 3. The fork of PointCNN is minor, and is only made to enable us to easily run it
